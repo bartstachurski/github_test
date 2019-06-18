@@ -1,0 +1,1 @@
+array = ["Tired Hands", "Referend"]
